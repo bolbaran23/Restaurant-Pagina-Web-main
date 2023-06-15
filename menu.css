@@ -1,5 +1,5 @@
 html {
-    font-size: 62.5%;
+    font-size: 100%;
     font-family: 'Poppins';
 }
 
@@ -13,7 +13,7 @@ html {
 
 /* Utilidades */
 
-.container {
+.container1 {
     max-width: 1200px;
     margin: 0 auto;
 }
@@ -350,4 +350,9 @@ html {
 
 .perc-widget {
     background-color: #C7A17A;
+}
+
+#items img{
+    width: 200px;
+    height: 150px;
 }
